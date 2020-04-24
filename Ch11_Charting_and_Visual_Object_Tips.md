@@ -1,4 +1,4 @@
-# Ch11_Charting_and_Visual_Object_Tips.md
+# Chapter 11: Charting and Visual Object Tips
 
 ## Section 1: Manipulate chart placement and sizing with dragging techniques
 
